@@ -1,4 +1,4 @@
-### [1 四大名著-水浒签到](https://www.matiji.net/exam/brushquestion/35/4693/305EE97B0D5E361DE6A28CD18C929AF0)
+### [1 水浒签到](https://www.matiji.net/exam/brushquestion/35/4693/305EE97B0D5E361DE6A28CD18C929AF0)
 
 - **时间限制**：1 秒
 - **占用内存**：256 M
