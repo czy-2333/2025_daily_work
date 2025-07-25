@@ -1,0 +1,33 @@
+# 可执行与构建文件
+*.exe
+*.o
+*.dll
+*.tmp
+build/
+
+# 日志文件
+*.log
+
+# Python
+*.pyc
+*.pyo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 和本地配置
+.idea/
+.obsidian/
+.vscode/
+*.iml
+*.local/
+
+# 数据库
+*.db
+
+# Node.js 依赖
+node_modules/
+
+# 忽略所有 JS 文件
+*.js
