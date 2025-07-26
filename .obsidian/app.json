@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 4,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "spellcheck": false
 }

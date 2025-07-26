@@ -1,1 +1,13 @@
-{}
+{
+  "interfaceFontFamily": "",
+  "baseFontSize": 18,
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "page-width"
+  ],
+  "nativeMenus": false
+}

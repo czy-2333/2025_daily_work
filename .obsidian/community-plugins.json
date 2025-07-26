@@ -1,5 +1,8 @@
 [
-  "editor-width-slider",
   "editing-toolbar",
-  "terminal"
+  "obsidian-timeline",
+  "obsidian-mind-map",
+  "obsidian-excalidraw-plugin",
+  "obsidian-outliner",
+  "obsidian-minimal-settings"
 ]
