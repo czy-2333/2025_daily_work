@@ -7,6 +7,8 @@ build/
 
 # 日志文件
 *.log
+*.in
+*.out
 
 # Python
 *.pyc
@@ -20,7 +22,11 @@ Thumbs.db
 .idea/
 .obsidian/
 .vscode/
+.venv/
 drawing/
+cmake-build-debug/
+.clang-format
+.editorconfig
 *.iml
 *.local/
 
