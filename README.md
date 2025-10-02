@@ -1,8 +1,18 @@
-给算法组的预备成员出了 42 道题，用于日常练习，题目主要来自 Codeforces 的题库和比赛，以及往期牛客寒暑假训练营。
+# myStudyNote
 
-把这些题目全部写完并真正弄懂，至少可以在蓝桥杯 B 组拿到一个省二；如果系统地学习并持续刷题，还有机会取得更高的奖项。
+该仓库并非原创，部分内容来源于黑马程序员、赵虚左、CS自学指南等多位老师的课件和网站
 
-平时出题只是为了锻炼思维能力和写代码能力，可以当作兴趣来做，不建议投入过多精力去拼算法比赛。毕竟，这类比赛的投入和收获并不完全成正比，拿到一个省一或国三，其实已经足够了。
+本人仅对其进行了整理、格式调整和归纳汇总
 
 
-[Github 仓库传送门](https://github.com/czy-2333/2025_daily_work)
+
+课件来源：
+
+* [黑马程序员官网](https://www.itheima.com/)
+* [赵虚左ROS机器人](http://www.autolabor.com.cn/book/ROSTutorials/)
+* [CS自学指南](https://csdiy.wiki/)
+* [代码随想录](https://www.programmercarl.com/)
+* [力扣平台](https://leetcode.cn/leetbook/)
+* [Typora 教程](https://www.bilibili.com/video/BV1h84y1Y7nn/?spm_id_from=333.337.search-card.all.click)
+* [CMake入门](https://www.bilibili.com/video/BV1nU4y1B7mJ/?spm_id_from=333.337.search-card.all.click&vd_source=f92bd93291bd6c503ee889a4e9290964)
+* [计算机网络](https://www.xueyinonline.com/detail/214389254)
