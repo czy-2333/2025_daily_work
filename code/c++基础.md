@@ -9344,44 +9344,42 @@ void test01()
 {
 	ifstream ifs;
 	ifs.open("test.txt", ios::in);
-
+	
 	if (!ifs.is_open())    //流对象名.is_open(), 判断文件是否打开, 成功打开返回 true, 无法打开返回 false
 	{
 		cout << "文件打开失败" << endl;
 		return;
 	}
-
+	
 	//第一种方式
 	char buf[1024] = { 0 };    //字符数组 或 字符串类型
 	while (ifs >> buf)    //将文件中的字符逐一存入数组, 直到文件读到 换行符 或 末尾 返回 false
 	{
 		cout << buf << endl;    //打印字符数组名, 即打印整个字符数组
 	}
-
+	
 	//第二种方式
 	char buf[1024] = { 0 };    //ifs.getline(字符串地址, 每行获取的最大字符数量) 获取一行字符
 	while (ifs.getline(buf,sizeof(buf)))
 	{
 		cout << buf << endl;
 	}
-
+	
 	//第三种方式
 	string buf;
 	while (getline(ifs, buf))    //getline(输入流对象名, 字符串变量名) 获取一行字符
 	{
 		cout << buf << endl;
 	}
-
+	
     //第四种方式
 	char c;
 	while ((c = ifs.get()) != EOF)    //ifs.get() 获取一个文件中字符的函数 , EOF (end of file)文件末尾
 	{
 		cout << c;
 	}
-
-	ifs.close();*/
-
-
+	
+	ifs.close();	// ifs.close() 关闭文件
 }
 
 int main()
