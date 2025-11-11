@@ -5189,7 +5189,8 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 # 使用国内镜像源
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c 镜像网址 -c nvidia
-# https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/win-64/ 国内清华源
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/ -c nvidia
+# 国内清华源
 ```
 
 下载需要连接代理，如果下载速度过慢请使用国内镜像源
