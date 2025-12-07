@@ -2125,9 +2125,10 @@ $ sudo apt install ros-<distro>-rqt-common-plugins
 
 例如当前版本是 Noetic,就在终端窗口中输入
 
+
 ```
-$ sudo apt install ros-noetic-rqt
-$ sudo apt install ros-noetic-rqt-common-plugins
+sudo apt install ros-noetic-rqt
+sudo apt install ros-noetic-rqt-common-plugins
 ```
 
 
